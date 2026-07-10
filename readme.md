@@ -51,11 +51,11 @@ Building software that empowers education, research, and communities.
 
 <!-- Progressive Web Apps -->
 
-<img src="https://img.shields.io/badge/Bantay%20Hangin-Wind%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+<img src="https://img.shields.io/badge/Bantay%20Hangin-Wind%20Monitoring-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/Bantay%20Klima-Climate%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+<img src="https://img.shields.io/badge/Bantay%20Klima-Climate%20Monitoring-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/Bantay%20Kuweba-Cave%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+<img src="https://img.shields.io/badge/Bantay%20Kuweba-Cave%20Monitoring-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
 
 
 </p>
