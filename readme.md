@@ -78,6 +78,26 @@ Building software that empowers education, research, and communities.
 
 </p>
 
+## Sustainable Development Goals
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sustainable_Development_Goal_03GoodHealth.svg" width="65" alt="SDG 3"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Sustainable_Development_Goal_08DecentWork.svg" width="65" alt="SDG 8"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Sustainable_Development_Goal_09Industry.svg" width="65" alt="SDG 9"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sustainable_Development_Goal_11SustainableCities.svg" width="65" alt="SDG 11"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Sustainable_Development_Goal_13Climate.svg" width="65" alt="SDG 13"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Sustainable_Development_Goal_15LifeOnLand.svg" width="65" alt="SDG 15"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnership.svg" width="65" alt="SDG 17"/>
+
+</p>
+
 ## Academic & Professional Highlights
 
 <p align="center">
