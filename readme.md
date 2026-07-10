@@ -92,9 +92,9 @@ Building software that empowers education, research, and communities.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" width="65" alt="SDG 13"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Sustainable_Development_Goal_15LifeOnLand.svg" width="65" alt="SDG 15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sustainable_Development_Goal_15LifeOnLand.svg" width="65" alt="SDG 15"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnership.svg" width="65" alt="SDG 17"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnerships.svg" width="65" alt="SDG 17"/>
 
 </p>
 
