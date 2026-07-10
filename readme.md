@@ -1,9 +1,9 @@
-```markdown
+
 <div align="center">
 
-# Hi, I'm Reid Martinez 👋
+# Hi, I'm Kristine 👋
 
-### Software Engineer • Computer Science Educator • Researcher • Community Extension Advocate
+### Software Engineer • Researcher • Community Extension Advocate • Information Technology Educator 
 
 Building software that empowers education, research, and communities.
 
@@ -21,7 +21,7 @@ Building software that empowers education, research, and communities.
 - 🎓 Faculty Member | Computer Science Department
 - 🌱 Currently learning Cloud-native Development & System Architecture
 
----
+
 
 ## 💻 Tech Stack
 
@@ -29,44 +29,72 @@ Building software that empowers education, research, and communities.
 <img src="https://skillicons.dev/icons?i=go,flutter,dart,python,php,laravel,django,html,css,bootstrap,js,ts,nodejs,mysql,postgres,mongodb,firebase,docker,git,github,linux,vscode,apple&perline=12"/>
 </p>
 
----
+
 
 ## 📌 Featured Projects
 
 <p>
 
-<img src="https://img.shields.io/badge/CZCIMS-Community%20Zone%20Information%20Management-3A3A3A?style=for-the-badge"/>
+<!-- Web Information Systems -->
 
-<img src="https://img.shields.io/badge/Wanderpage-Travel%20Journal%20App-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CZIMS-Computerized%20Zoning%20Clearance%20Issuance%20and%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/PSU--WFES-Faculty%20Evaluation%20System-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MBTCTIMM-Tenant%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/PDFMergeXpress-Desktop%20Utility-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IHRMS-Intranet%20Health%20Record%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/MBTCTIMM-Tenant%20Management-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PSUDORM-Dormitory%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/IHRMS-Human%20Resource%20System-3A3A3A?style=for-the-badge"/>
+<!-- Mobile Apps -->
 
-<img src="https://img.shields.io/badge/Dormitory%20Management-System-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wanderpage-Travel%20Journal%20App-4B2E83?style=for-the-badge&logo=flutter&logoColor=white&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/Data%20Warehouse-Natural%20Language%20Querying-3A3A3A?style=for-the-badge"/>
+<!-- Progressive Web Apps -->
 
-<img src="https://img.shields.io/badge/GIS-Mapping%20Applications-3A3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bantay%20Hangin-Wind%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Bantay%20Klima-Climate%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Bantay%20Kuweba-Cave%20Monitoring%20PWA-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
+
 
 </p>
 
----
+
 
 ## 📊 Academic & Professional Highlights
 
-| | |
-|:---|:---|
-| 🧪 Research Projects | ![](https://img.shields.io/badge/12-Research-blue?style=flat-square) |
-| 🤝 Extension Activities | ![](https://img.shields.io/badge/20-Extension-success?style=flat-square) |
-| 🎤 Trainings Facilitated | ![](https://img.shields.io/badge/15-Training-orange?style=flat-square) |
-| 💼 Information Systems Developed | ![](https://img.shields.io/badge/15+-Projects-informational?style=flat-square) |
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/🧪%2012-Research-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/🤝%2020-Extension%20Activities-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/🎤%2015-Trainings%20Facilitated-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/💼%2015+-Information%20Systems-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
+
+</p>
+
+## 🤝 Collaborations
+
+<p>
+
+<img src="https://img.shields.io/badge/Department%20of%20Science%20and%20Technology-DOST-4B2E83?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/RepetekNews-Digital%20Media-4B2E83?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/St.%20Ives%20Bakeshop-Business%20Solutions-4B2E83?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Le%20Dessert-Cakes%20%26%20Pastries-4B2E83?style=for-the-badge&logo=cakephp&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Palawan%20Adventist-Health%20Products-4B2E83?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Municipality%20of%20Bataraza-LGU-4B2E83?style=for-the-badge&logo=openstreetmap&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/Municipality%20of%20Dumaran-LGU-4B2E83?style=for-the-badge&logo=openstreetmap&logoColor=white&labelColor=2D1B4E"/>
+
+</p>
 
 ## 🌱 Current Interests
 
@@ -93,35 +121,26 @@ Building software that empowers education, research, and communities.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kjvmartinez&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kjvmartinez&theme=flat&no-frame=true&row=1&column=6"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjvmartinez&bg_color=0d1117&color=CBA6F7&line=9747FF&point=B388FF&area=true&area_color=4B2E83&hide_border=true"/>
 
 </p>
 
----
-
-## 📫 Connect
-
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
-
----
 
 <div align="center">
 
-*"Building solutions that bridge technology, education, and community development."*
+*"To a little **BIT** more.."*
 
 </div>
-```
+
