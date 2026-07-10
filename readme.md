@@ -109,27 +109,7 @@ Building software that empowers education, research, and communities.
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kjvmartinez&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kjvmartinez&theme=flat&no-frame=true&row=1&column=6"/>
-
-</p>
+## 📈 GitHub
 
 <p align="center">
 
