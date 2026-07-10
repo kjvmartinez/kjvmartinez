@@ -9,9 +9,9 @@ Building software that empowers education, research, and communities.
 
 </div>
 
----
 
-## 🚀 About Me
+
+## About Me
 
 - 💻 Full-stack software developer
 - 📱 Mobile application developer using Flutter
@@ -19,11 +19,10 @@ Building software that empowers education, research, and communities.
 - 🗺️ GIS and Data Analytics enthusiast
 - 🤖 Exploring AI-assisted Software Engineering
 - 🎓 Faculty Member | Computer Science Department
-- 🌱 Currently learning Cloud-native Development & System Architecture
 
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,flutter,dart,python,php,laravel,django,html,css,bootstrap,js,ts,nodejs,mysql,postgres,mongodb,firebase,docker,git,github,linux,vscode,apple&perline=12"/>
@@ -31,9 +30,17 @@ Building software that empowers education, research, and communities.
 
 
 
-## 📌 Featured Projects
+## Featured Projects
 
-<p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌐%208-Web%20Information%20Systems-0D6EFD?style=for-the-badge&labelColor=084298"/>
+
+<img src="https://img.shields.io/badge/📱%201-Mobile%20Application-DC3545?style=for-the-badge&labelColor=842029"/>
+
+<img src="https://img.shields.io/badge/⚡%203-Progressive%20Web%20Applications-FFC107?style=for-the-badge&labelColor=997404&logoColor=black"/>
+
+</p>
 
 <p>
 
@@ -69,11 +76,7 @@ Building software that empowers education, research, and communities.
 
 </p>
 
-</p>
-
-
-
-## 📊 Academic & Professional Highlights
+## Academic & Professional Highlights
 
 <p align="center">
 
@@ -83,11 +86,11 @@ Building software that empowers education, research, and communities.
 
 <img src="https://img.shields.io/badge/🎤%2015-Trainings%20Facilitated-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
 
-<img src="https://img.shields.io/badge/💼%2015+-Information%20Systems-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
+<img src="https://img.shields.io/badge/💼%2012+-Information%20Systems-4B2E83?style=for-the-badge&labelColor=2D1B4E"/>
 
 </p>
 
-## 🤝 Collaborations
+## Collaborations
 
 <p>
 
@@ -105,26 +108,6 @@ Building software that empowers education, research, and communities.
 
 <img src="https://img.shields.io/badge/Municipality%20of%20Dumaran-LGU-4B2E83?style=for-the-badge&logo=openstreetmap&logoColor=white&labelColor=2D1B4E"/>
 
-</p>
-
-## 🌱 Current Interests
-
-- Artificial Intelligence
-- Software Architecture
-- Cloud Computing
-- Mobile Development
-- Data Warehousing
-- Natural Language Querying
-- Geographic Information Systems
-- Open Source Software
-
----
-
-## 📈 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjvmartinez&bg_color=F4EEFF&color=4B2E83&line=9747FF&point=7C3AED&area=true&area_color=CBA6F7&hide_border=true"/>
 </p>
 
 
