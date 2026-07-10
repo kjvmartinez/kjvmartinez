@@ -113,8 +113,7 @@ Building software that empowers education, research, and communities.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjvmartinez&bg_color=0d1117&color=CBA6F7&line=9747FF&point=B388FF&area=true&area_color=4B2E83&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjvmartinez&bg_color=F4EEFF&color=4B2E83&line=9747FF&point=7C3AED&area=true&area_color=CBA6F7&hide_border=true"/>
 </p>
 
 
