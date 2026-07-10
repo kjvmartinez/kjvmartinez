@@ -35,6 +35,8 @@ Building software that empowers education, research, and communities.
 
 <p>
 
+<p>
+
 <!-- Web Information Systems -->
 
 <img src="https://img.shields.io/badge/CZIMS-Computerized%20Zoning%20Clearance%20Issuance%20and%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
@@ -45,11 +47,19 @@ Building software that empowers education, research, and communities.
 
 <img src="https://img.shields.io/badge/PSUDORM-Dormitory%20Management%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
 
-<!-- Mobile Apps -->
+<img src="https://img.shields.io/badge/DMCCS-Digital%20Maternal%20and%20Child%20Care%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/TORP-Typhoon%20Odette%20Recovery%20Project-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/RMSOP-Redsolseyer%20Media%20Services%20Online%20Platforms-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
+
+<img src="https://img.shields.io/badge/WILMS-Inventory%20%26%20Logistics%20System-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2D1B4E"/>
+
+<!-- Mobile Application -->
 
 <img src="https://img.shields.io/badge/Wanderpage-Travel%20Journal%20App-4B2E83?style=for-the-badge&logo=flutter&logoColor=white&labelColor=2D1B4E"/>
 
-<!-- Progressive Web Apps -->
+<!-- Progressive Web Applications -->
 
 <img src="https://img.shields.io/badge/Bantay%20Hangin-Wind%20Monitoring-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
 
@@ -57,6 +67,7 @@ Building software that empowers education, research, and communities.
 
 <img src="https://img.shields.io/badge/Bantay%20Kuweba-Cave%20Monitoring-4B2E83?style=for-the-badge&logo=pwa&logoColor=white&labelColor=2D1B4E"/>
 
+</p>
 
 </p>
 
