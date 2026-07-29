@@ -25,7 +25,7 @@ Building software that empowers education, research, and communities.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,flutter,dart,python,php,laravel,django,html,css,bootstrap,js,ts,nodejs,mysql,postgres,mongodb,firebase,docker,git,github,linux,vscode,apple,playwright&perline=12"/>
+<img src="https://skillicons.dev/icons?i=go,flutter,dart,python,php,laravel,django,html,css,bootstrap,js,ts,nodejs,mysql,postgres,mongodb,firebase,docker,git,github,linux,playwright&perline=12"/>
 </p>
 
 
