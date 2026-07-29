@@ -26,7 +26,6 @@ Building software that empowers education, research, and communities.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,flutter,dart,python,php,laravel,django,html,css,bootstrap,js,ts,nodejs,mysql,postgres,mongodb,firebase,docker,git,github,linux&perline=12"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 </p>
 
 
